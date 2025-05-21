@@ -20,9 +20,7 @@ for St_No in range(1,max_St_No+1):
     
     #python/Reserchディレクトリにいる前提
     #pandasでascファイルの読み取り，sep=r'\s+'は空白区切りのコード
-    #★Seabird社によるデータ修正後のものがどんなものになるのか（主に拡張子）の調査
-    #pd_ctd_data=pd.read_csv(f"./CTD/data/Report/{name}.asc",sep=r'\s+')
-
+    #ディレクトリ構造についてはデータ見てから書き換える
     pd_ctd_data=pd.read_csv(f"./CTD/data/Report/{name}.asc",sep=r'\s+')
     
     #pandasで出したデータをxarrayに変換，PrSMの列を探している．
