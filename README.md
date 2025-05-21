@@ -2,7 +2,7 @@
 
 CTDのデータをグラフにするものです．
 <br><br>
-![image](https://github.com/user-attachments/assets/a02faa51-9f90-424a-84f4-e697d02bced6)
+![image](https://github.com/user-attachments/assets/656f74ef-b779-4ee7-adc7-66a92cd8f8ab)
 <br><br>
 (例図)2336航海でのSt.1で計測した塩分と深さのグラフ<br>
 
