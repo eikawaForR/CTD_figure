@@ -20,7 +20,7 @@ CTDのデータをグラフにするものです．
 <br>
 
 ### 2. CTD_figure.pyを編集
-<br>
+
 
 ```
 #航海番号？と最大St名を入力
@@ -28,8 +28,6 @@ CTDのデータをグラフにするものです．
 Vo_No=2336
 max_St_No=3
 ```
-
-<br>
 
 ### 3. run CTD_figure.py
 <br>
