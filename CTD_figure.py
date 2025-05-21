@@ -2,7 +2,6 @@ import numpy as np
 import xarray as xr
 import pandas as pd
 import matplotlib.pyplot as plt
-import matplotlib
 
 plt.rcParams['font.family'] = 'Noto Sans CJK JP'
 plt.rcParams["font.size"]=14
