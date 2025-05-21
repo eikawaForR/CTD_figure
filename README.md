@@ -17,7 +17,7 @@ CTDのデータをグラフにするものです．
 
 ### 1. データファイルの作成
 各観測点のデータが入ったascファイルを入手，または作成する．
-<br><br>
+<br>
 ### 2. CTD_figure.pyを編集
 <br>
 ```
@@ -27,7 +27,6 @@ Vo_No=2336
 max_St_No=3
 ```
 <br>
-
 ### 3. run CTD_figure.py
 <br><br>
 ## Auther
