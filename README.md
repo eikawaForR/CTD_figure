@@ -7,9 +7,7 @@ CTDのデータをグラフにするものです．
 (例図)2336航海でのSt.1で計測した塩分と深さのグラフ<br>
 
 ## Dependencies
-+ numpy
-+ pandas
-+ xarray
++ seabird
 + matplotlib.pyplot
 <br><br>
 
