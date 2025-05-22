@@ -32,7 +32,7 @@ max_St_No=3
 ### 3. run CTD_figure.py
 <br>
 
-## Auther
+## Author
 Kentaro Eikawa
 
 
